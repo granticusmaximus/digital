@@ -14,6 +14,7 @@
     "@types/toastr": "^2.1.35",
     "bootstrap": "^4.1.3",
     "classnames": "^2.2.6",
+    "create-react-app-fullstack": "^3.0.1",
     "director": "^1.2.8",
     "font-awesome": "^4.7.0",
     "react": "^16.4.2",
