@@ -63,7 +63,7 @@
   font-size: 16px;
   border: 2px solid #fff;
   border-radius: 4px;
-  width: 1000px;
+  width: 980px;
 }
 
 .todoListMain .header button {
@@ -84,7 +84,7 @@
 .todoListMain .theList {
   list-style: none;
   padding-left: 0;
-  width: 1100px;
+  width: 1000px;
 }
 .todoListMain .theList li {
   color: #333;
