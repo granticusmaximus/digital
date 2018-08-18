@@ -36,14 +36,14 @@ digital/
       ToDoItem.jsx
       ToDoList.jsx
     pages/
-      home.js
+      home.jsx
       todo.jsx
       notes.jsx
       login.jsx
       register.jsx
       lostPass.jsx
     api/
-      loginSQL.js
+      loginSQL.jsx
       noteSQL.jsx
       todoSQL.jsx
     App.css
