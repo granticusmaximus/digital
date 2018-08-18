@@ -11,6 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
 - [Used Technologies](#used-technologies)
+- [My Personal Use](#my-personal-use)
 
 
 
@@ -108,9 +109,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Used Technologies
+* [ReactJS](https://reactjs.org/)
+* [PostGRE SQL](https://www.postgresql.org)
+* [TypeScript](https://www.typescriptlang.org/) 
 
-This project uses ReactJS, the wonderful JS library built by Facebook<br>
-This project also uses PostgreSQL, a free databasing software.<br>
+## My personal use
+
+* Major
+  * Updating my personal site using ReactJS
+  * Updating my personal site using NodeJS
+  * Updating my personal site using PostgreSQL
+* Minor
+  * Grow my programming skills in JavaScript
+  * Grow in my server maintenance skills
 
 
 
