@@ -46,8 +46,12 @@ class TodoList extends Component {
       <div className="container">
         <div className="todoListMain">
           <div className="header">
-            <h1>{moment().format("MMM Do YY")}</h1>
-            <h2>Grant's ToDo List</h2>
+            <div className={"text-xs-center center text-center centering"}>
+              <div className={"alert alert-info"}>
+                <p>{moment().format("MMM Do YY")}</p>
+                <p>Grant's ToDo List</p>
+              </div>
+            </div>
             <form onSubmit={this.addItem}>
               <input
                 ref={a => (this._inputElement = a)}
